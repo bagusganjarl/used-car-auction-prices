@@ -1,34 +1,33 @@
-# Used Car Auction Prices Machine Learning Model
+# **Used Car Auction Prices Machine Learning Model**
 
-## Introduction
-A final project of Data Science bootcamp batch 20 in Rakamin Academy. In this project, we as Data Scientist from used car dealer company in United States has responsibility to give recommendation to face the current problem through machine learning.
+## **Introduction**
+A final project of Data Science Bootcamp Batch 20 in [Rakamin Academy](https://www.rakamin.com/). In this project, as a **Data Scientist** from used car dealer company in United States has responsibility to give recommendation to face the current problem through machine learning.
 
-## Dataset
-This dataset obtained from Kaggle [Used Car Auction Prices](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Dataset using historical data of sold used car in United States moreless 2 years before.
+## **Dataset**
+This dataset obtained from **Kaggle** [Used Car Auction Prices](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices). Dataset using historical data of sold used car in United States moreless **2 years before**.
 
-## Problem Statement
-From this dataset and role as Data Scientist we get some problem:
-1. The time needed to predict the prices of a used car is less effective and efficient
-2. Customers of used cars have not yet received a value-for-money guarantee
+## **Problem Statement**
+1. The **time** needed to predict the prices of a used car is less **effective** and **efficient**,
+2. Customers of used cars have not yet received a **value-for-money** guarantee.
 
-## Goal
-Increase the accuracy of the value and speed of time in determining the prices of a used car so that it can improve car sales performance.
+## **Goal**
+Increase **the accuracy** of the value and **speed of time** in determining the prices of a used car so that it can improve **car sales performance**.
 
-## Objective
-Build machine learning model to predict used car
+## **Objective**
+Build **machine learning model** to predict used car
 
-## Business Metrics
-- Appraisal Time
-- Sales Revenue
+## **Business Metrics**
+- **Appraisal Time**
+- **Sales Revenue**
 
-In this project, we divide into 4 stages:
-1. Stage 1 - Preparation: We learn about the project and dataset that has been choosen. The key-takeaways in this stage is who we are in this project, the problem statement, goal and objective that we want to achieve and the last is business metrics.
-2. Stage 2 - EDA: We start to reach the dataset to gain the characteristic from the data. We separate the process into 3 steps, start from exploration data, EDA, and gather insight about the dataset related to the main problem and goals.
-3. Stage 3 - Preprocessing: We handle the data become the cleanest data before start the modelling process. We cleansing some missing values, duplicate data, outliers and determine the feature engineering we choose.
-4. Stage 4 - Supervised Learning: We enter the modelling process and explore several algorithm to enhance from feature and target that we been choosed.
+In this project, we divide into **4 stages**:
+1. **Stage 1 - Preparation**: We learn about the project and dataset that has been choosen. The key-takeaways in this stage is who we are in this project, **the problem statement**, **goal** and **objective** that we want to achieve and the last is **business metrics**.
+2. **Stage 2 - EDA**: We start to reach the dataset to gain the characteristic from the data. We separate the process into 3 steps, start from **exploration data**, **EDA**, and gather **insight** about the dataset related to the main problem and goals.
+3. **Stage 3 - Preprocessing**: We handle the data become the cleanest data before start the modelling process. We cleansing some **missing values**, **duplicate data**, **outliers** and determine the **feature engineering** we choose.
+4. **Stage 4 - Supervised Learning**: We enter the modelling process and explore several **algorithm** to enhance based on **feature** and **target** that we been choosed.
 
-## Team
-We called the project name as **Car-A-Thon**. Team behind this project for final project of Data Science Bootcamp Batch 20 Rakamin Academy:
+## **Team**
+We called the project name as **Car-A-Thon**. Team behind this project for final project of **Data Science Bootcamp Batch 20 Rakamin Academy**:
 
 | Member | LinkedIn|
 | --- | --- |
