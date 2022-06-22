@@ -20,6 +20,7 @@ Build **machine learning model** to predict used car
 - **Appraisal Time**
 - **Sales Revenue**
 
+## **Stage**
 In this project, we divide into **4 stages**:
 1. **Stage 1 - Preparation**: We learn about the project and dataset that has been choosen. The key-takeaways in this stage is who we are in this project, **the problem statement**, **goal** and **objective** that we want to achieve and the last is **business metrics**.
 2. **Stage 2 - EDA**: We start to reach the dataset to gain the characteristic from the data. We separate the process into 3 steps, start from **exploration data**, **EDA**, and gather **insight** about the dataset related to the main problem and goals.
